@@ -1,0 +1,54 @@
+body, html{
+    margin:0;
+    padding:0;
+}
+body{
+    background: url(./img/floating-hearts-floating-pink-hearts.gif);
+    text-align: center;
+}
+p{  margin-top: 7rem;
+    margin-right: 35px;
+    display: inline-block;
+    font-size: 40px;
+    font-weight:bold;
+    border-radius: 2em;
+    background-color: rgba(255, 109, 196, 0.582);
+    color:rgba(154, 2, 255, 0.94);
+    padding:0.3em 0.6em;
+    box-shadow:  rgb(235, 80, 255) 0px 4px 10px 0px;
+}
+.anh1{ margin-top: 10px;
+    margin-bottom:3rem;
+    margin-right: 10rem;
+    margin-left: -2rem;
+    width:250px;
+    height:fit-content;
+}
+.anh2{
+    margin-top: 10px;
+    margin-bottom:11rem;
+    margin-left: 10px;
+    width:250px;
+    height:fit-content;
+}
+.anh3{
+    margin-top: -5rem;
+    margin-bottom :12rem;
+    margin-left: 8rem;
+    margin-right: -5rem;
+    width:350px;
+    height:fit-content; }
+audio{
+    margin-bottom:-5rem; 
+    margin-left:-1rem;   
+}
+.anh4{
+    margin-top:9rem;
+    width:350px;
+    height:fit-content;
+    align-items: center;
+    border-radius: 100%;
+    border: 4px solid pink;
+    box-shadow: rgb(235, 80, 255) 0px 4px 10px 0px;
+}
+
